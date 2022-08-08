@@ -7,8 +7,3 @@
 - 🏀 en la escuela logre sacar medalla de plata en un campeonato de basquetbol 
 - ✒ este semestre estoy en las materias: intro a la programacion, algebra lineal, calculo1, sostemas operativos y antropologia cristiana 
 - 😎 espero de la carrera aprender cosas nuevas para ampliar mi conocimiento y conocer a nuevas personas 
-
-<!---
-XxanuarxX/XxanuarxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
